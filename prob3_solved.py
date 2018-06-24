@@ -7,7 +7,7 @@
 # [120, 60, 40, 30, 24]. If our input was [3, 2, 1], the expected output would be
 # [2, 3, 6].
 
-Follow-up: what if you can't use division? """
+# Follow-up: what if you can't use division? """
 
 arr = [1, 2, 3, 4, 5] # [120, 60, 40, 30, 24]
 n = len(arr)
