@@ -10,7 +10,6 @@ def kSum(kList, n, k, switch):
     
     for i in range(0, n):
         for x in range(i + 1, n):
-            print("x")
             if kList[i] + kList[x] == k:
                 print("The integers equal to k Value are " ,kList[i] ,"and", kList[x])
             else:
